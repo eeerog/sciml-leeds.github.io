@@ -80,3 +80,13 @@
   applications:
     - Storm tracking and initiation prediction
     - Precipitation nowcasting 
+
+- name: Eilish O'Grady
+  social:
+    website: https://environment.leeds.ac.uk/see/pgr/10039/eilish-o-grady
+    github: 
+  techniques:
+    - Supervised learning
+    - Convolutional Networks
+  applications:
+    - Phase Unwrapping
