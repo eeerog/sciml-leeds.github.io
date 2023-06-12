@@ -379,3 +379,14 @@
     - Neural networks
   applications:
     - Classification of convective weather systems
+    
+ - name: Eilish O'Grady
+  social:
+    website: https://environment.leeds.ac.uk/see/pgr/10039/eilish-o-grady
+    github: eeerog
+  techniques:
+    - Semantic Segmentation
+    - Unet
+  applications:
+    - Satellite data (Sentinel 1)
+    - Phase Unwrapping
